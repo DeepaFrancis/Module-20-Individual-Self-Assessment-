@@ -24,9 +24,7 @@ We were a team of 4 and we learnt collaboration well. We communicated through sl
 
 Every team member worked on various parts of the project and we were able to achieve our goal completetion of 'Diabetes Predictor' Application in the given time period.
 
-Special mention to our Team lead 'Saloj' For his dedication and contributions to the project.
-
-Thanks to all my teammembers for the wonderful work!
+Special mention to our Team for their dedication and contributions to the project. Thanks to all my team members for the wonderful work!
 
 Finally... here's our project Github Repository!!!
 
